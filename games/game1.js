@@ -145,6 +145,7 @@
              player.draw();
              window.setTimeout("tick()", 1000 / 60);
          }
+
          tick();
      });
      
