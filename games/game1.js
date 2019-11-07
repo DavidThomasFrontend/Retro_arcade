@@ -1,4 +1,5 @@
      $(function() {
+         document.getElementById('game1').style.display = 'none';
          var canvas = document.getElementById("game1");
          var ctx = canvas.getContext("2d");
 
