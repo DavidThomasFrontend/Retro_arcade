@@ -1,4 +1,4 @@
-var canvas = document.getElementById('myCanvas');
+var canvas = document.getElementById('game3');
 var ctx = canvas.getContext('2d');
 
 var x = canvas.width/2;
