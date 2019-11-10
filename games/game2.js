@@ -10,7 +10,7 @@ function startGame() {
 }
 
 var myGameArea = {
-    canvas : document.createElement("game2"),
+    canvas : document.getElementById("game2"),
     start : function() {
         this.canvas.width = 480;
         this.canvas.height = 270;
@@ -117,4 +117,3 @@ function accelerate(n) {
     myGamePiece.gravity = n;
 }
 
-startGame();
