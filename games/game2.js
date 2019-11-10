@@ -117,3 +117,4 @@ function accelerate(n) {
     myGamePiece.gravity = n;
 }
 
+startGame()
