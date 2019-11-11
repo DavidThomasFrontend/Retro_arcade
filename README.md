@@ -43,8 +43,6 @@ The features of my site are as follows:
 -   Feature 2 - Fully featured games
 
 
-
-- 
 ### Features Left to Implement
 
 - A new feature i would definitely include would be a leaderboard that would record high scores.
